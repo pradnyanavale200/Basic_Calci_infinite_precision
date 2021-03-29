@@ -1,0 +1,8 @@
+Multiplication algorithm:
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&cad=rja&uact=8&ved=2ahUKEwjmp67v2c7eAhVJuY8KHasFDbkQFjALegQIBxAB&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMultiplication_algorithm&usg=AOvVaw36i9UdaW7J9_ADhOfkpkXv
+Division algorithm:
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=11&cad=rja&uact=8&ved=2ahUKEwjzx_ub2s7eAhUlTI8KHUSvApAQFjAKegQIABAB&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDivision_algorithm&usg=AOvVaw0bi_SaLlMBQp31HrrJE2oO
+About git= Akanksha Mahajan.
+I just want to know can i use math library so i asked Abhijit sir.
+and to convert from degree to radian : Aishwairya Mahajan
+
